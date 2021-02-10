@@ -1,0 +1,26 @@
+1 - Abra o [Flights] Global Flight Dashboard. Explorando os dados com esse dashboard, responda às seguintes perguntas relativas ao último ano:
+
+Qual o total de voos nesse período? 
+R: 2909
+
+Qual a quantidade de voos atrasados? 
+R: 361
+
+Qual o intervalo de tempo de atraso é mais frequente? E o menos frequente? 
+R: 270 e 0, minutos 
+
+Qual o total de voos que tiveram como país de origem a Austrália (AU)? 
+R: 109
+
+
+2 - Crie um dashboard que permita visualizar as seguintes informações e responda às perguntas relativas ao último ano:
+
+A quantidade de voos que partiram de cada país (OriginCountry): qual país teve a menor quantidade de voos? 
+R: PL - Poland
+
+A média de minutos de atraso em voos (FlightDelayMin) por companhia de voo (Carrier): qual companhia, em média, teve mais minutos de atraso? 
+R: JetBeats - 49,927
+
+A proporção dos diferentes tipos de clima do local de partida (OriginWeather) e, destes, a proporção dos voos cancelados (Cancelled): qual o clima teve a maior proporção geral de voos cancelados? 
+R:Hail - 17.03% e Thunder & Lightning - 17.03% 
+
